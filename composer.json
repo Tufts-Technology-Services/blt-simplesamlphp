@@ -1,5 +1,5 @@
 {
-  "name": "acquia/blt-simplesamlphp",
+  "name": "tufts-technology-services/blt-simplesamlphp",
   "description": "SimpleSAMLPhp integration for Acquia BLT",
   "license": "GPL-2.0+",
   "authors":[
